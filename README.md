@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saleesh_satheeshchandran
 - 👀 I’m interested in Datasets, Analysis projects.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning R, Python, SQL
 - 💞️ I’m looking to collaborate on Data Analysis
 - 📫 How to reach me saleesh4u@gmail.com
 
