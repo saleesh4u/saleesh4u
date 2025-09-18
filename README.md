@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saleesh_satheeshchandran
-- 👀 I’m interested in Datasets, Analysis projects.
-- 🌱 I’m currently learning R, Python, SQL
-- 💞️ I’m looking to collaborate on Data Analysis
+- 👀 I’m interested in Vibe Coding, Balanced Ternary Computing, Data Science, Analysis projects.
+- 🌱 I’m currently learning and coding in Python, SQL and web.
+- 💞️ I’m looking to collaborate on System development with Vibe coding.
 - 📫 How to reach me saleesh4u@gmail.com
 
 <!---
