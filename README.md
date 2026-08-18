@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @saleesh_satheeshchandran
-- 👀 I’m interested in Vibe Coding, Balanced Ternary Computing, Data Science, Analysis projects.
-- 🌱 I’m currently learning and coding in Python, SQL and web.
-- 💞️ I’m looking to collaborate on System development with Vibe coding.
-- 📫 How to reach me saleesh4u@gmail.com
+- 👀 I’m interested in Vibe Coding, System building, Balanced Ternary Computing, Data Science, and analysis projects.
+- 🌱 I’m currently learning computer science and coding in Python and web.
+- 💞️ I’m looking to collaborate on System development with Vibe Coding.
+- 📫 Reach me: saleesh4u@gmail.com
 
 <!---
 saleesh4u/saleesh4u is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
