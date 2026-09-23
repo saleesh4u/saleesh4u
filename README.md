@@ -6,7 +6,7 @@
 - Studied Microbiology, MBA, Supply Chain Management and AI-ML
 - Worked for 2 decades in a lot of areas. Logistics, SCM, Data Science, System development in various industries.
 - 📫 Reach me: saleesh4u@gmail.com
-- From Kongad, Kerala. Working in Bangalore
+- From Kongad, Kerala, Earth, Orion arm of Milky way.
 <!---
 saleesh4u/saleesh4u is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
