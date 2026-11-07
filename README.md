@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saleesh_satheeshchandran, a solo vibe coder
+- 👋 Hi, I’m @saleesh, a solo vibe coder
 - Love architecting and building high-grade polyglot software platforms using an old Lenovo T480 by brainstorming with Gemini, Claude and DeepSeek.
 - Aspiring to become an established Systems Architect as well as a Science and Technology writer (non-fiction & hard Sci-Fi).
 - 👀 I’m interested in Vibe Coding, System building, Distributed computing, Balanced Ternary Computing, Data Science, and analytics projects.
